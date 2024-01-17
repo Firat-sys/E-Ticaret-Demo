@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\bin\Debug\net8.0\ETicaretApi_Domain.deps.json
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\bin\Debug\net8.0\ETicaretApi_Domain.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\bin\Debug\net8.0\ETicaretApi_Domain.pdb
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\obj\Debug\net8.0\ETicaretApi_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\obj\Debug\net8.0\ETicaretApi_Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\obj\Debug\net8.0\ETicaretApi_Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\obj\Debug\net8.0\ETicaretApi_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\obj\Debug\net8.0\ETicaretApi_Domain.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\obj\Debug\net8.0\refint\ETicaretApi_Domain.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\obj\Debug\net8.0\ETicaretApi_Domain.pdb
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApi_Domain\obj\Debug\net8.0\ref\ETicaretApi_Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\bin\Debug\net8.0\ETicaretApplication.deps.json
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\bin\Debug\net8.0\ETicaretApplication.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\bin\Debug\net8.0\ETicaretApplication.pdb
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\bin\Debug\net8.0\ETicaretApi_Domain.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\bin\Debug\net8.0\ETicaretApi_Domain.pdb
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\ETicaretApplication.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\ETicaretApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\ETicaretApplication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\ETicaretApplication.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\ETicaretApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\ETicaretApplication.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\ETicaretApplication.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\refint\ETicaretApplication.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\ETicaretApplication.pdb
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Core\ETicaretApplication\obj\Debug\net8.0\ref\ETicaretApplication.dll

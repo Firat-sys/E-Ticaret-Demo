@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\bin\Debug\net8.0\ETicaretInfrastructure.deps.json
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\bin\Debug\net8.0\ETicaretInfrastructure.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\bin\Debug\net8.0\ETicaretInfrastructure.pdb
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\bin\Debug\net8.0\ETicaretApi_Domain.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\bin\Debug\net8.0\ETicaretApplication.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\bin\Debug\net8.0\ETicaretApplication.pdb
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\bin\Debug\net8.0\ETicaretApi_Domain.pdb
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\ETicaretInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\ETicaretInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\ETicaretInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\ETicaretInfrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\ETicaretInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\ETicaretInfrastructure.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\ETicaretInfrastructure.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\refint\ETicaretInfrastructure.dll
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\ETicaretInfrastructure.pdb
+C:\Users\Lenovo\Desktop\E-Ticaret\ETicaretApi\Infrastructure\ETicaretInfrastructure\obj\Debug\net8.0\ref\ETicaretInfrastructure.dll
