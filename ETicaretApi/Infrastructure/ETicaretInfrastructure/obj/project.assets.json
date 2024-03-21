@@ -598,11 +598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Infrastructure\\ETicaretInfrastructure\\ETicaretInfrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Infrastructure\\ETicaretInfrastructure\\ETicaretInfrastructure.csproj",
       "projectName": "ETicaretInfrastructure",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Infrastructure\\ETicaretInfrastructure\\ETicaretInfrastructure.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Infrastructure\\ETicaretInfrastructure\\ETicaretInfrastructure.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Infrastructure\\ETicaretInfrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Infrastructure\\ETicaretInfrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -624,8 +624,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Core\\ETicaretApplication\\ETicaretApplication.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Core\\ETicaretApplication\\ETicaretApplication.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Core\\ETicaretApplication\\ETicaretApplication.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Core\\ETicaretApplication\\ETicaretApplication.csproj"
             }
           }
         }

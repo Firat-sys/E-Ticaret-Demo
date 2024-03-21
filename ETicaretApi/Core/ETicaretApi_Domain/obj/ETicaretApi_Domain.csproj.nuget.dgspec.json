@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj",
         "projectName": "ETicaretApi_Domain",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Core\\ETicaretApi_Domain\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Core\\ETicaretApi_Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

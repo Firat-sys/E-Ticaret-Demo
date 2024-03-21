@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rl8aiNMNSAJAtoQDozjhGQCX671vG6kkpSLT0LTWsQJL55abL+EjuPVjb11HjjBgoVJb4a8gHSZX7LOR+q0ceA==",
+  "dgSpecHash": "NV1BpV3wx/Q5FjwAgjKUWKSULtvUJtTs0wG4RSED0UaIfOA1RsdQFitF4Wg4YQsqhuZhfZ/f6qpR4v1pT1GipQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Infrastructure\\ETicaretApiPersistence\\ETicaretApiPersistence.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Infrastructure\\ETicaretApiPersistence\\ETicaretApiPersistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

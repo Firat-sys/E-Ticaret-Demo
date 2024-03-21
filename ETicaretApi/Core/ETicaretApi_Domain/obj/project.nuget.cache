@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XaGD6fPogM9R+nJVCR+g93/qT+efCW1vpEUXZUo0sO3zKzhWqm3jXd4UpmCQEJOjhgDEQqMat7oAIWqjFkHeqw==",
+  "dgSpecHash": "rqoh1a9qAluqPB5y5pA+vJlGZ3q2BacxnO7TQydp7+8xJNXrs7g5PLCPqJvuc0D+BWFDEY8bHmulbcQo+fnT3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Core\\ETicaretApi_Domain\\ETicaretApi_Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

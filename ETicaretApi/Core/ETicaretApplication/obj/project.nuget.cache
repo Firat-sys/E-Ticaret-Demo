@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6WJ2fwZ5prkJKZ0aezGZEDtnrjnF8q4LkTJnmfTs3eQateU3psyr5mQayW5f370fV3Rcj3T8HDXIZueSBzBXkw==",
+  "dgSpecHash": "96b7Q1xVjTr7eNRLUe8fXnfN6JnAtJd81iC4mMRNwxuJmp9NJikhGEruuDA368BTIEm2rOO4DNgWHnyz3dJl5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Core\\ETicaretApplication\\ETicaretApplication.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\E-Ticaret-Demo\\ETicaretApi\\Core\\ETicaretApplication\\ETicaretApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
