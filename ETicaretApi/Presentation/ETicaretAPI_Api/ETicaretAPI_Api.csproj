@@ -8,6 +8,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\filesa\**" />
+    <Compile Remove="wwwroot\reesource\**" />
+    <Compile Remove="wwwroot\resource\**" />
+    <Content Remove="wwwroot\filesa\**" />
+    <Content Remove="wwwroot\reesource\**" />
+    <Content Remove="wwwroot\resource\**" />
+    <EmbeddedResource Remove="wwwroot\filesa\**" />
+    <EmbeddedResource Remove="wwwroot\reesource\**" />
+    <EmbeddedResource Remove="wwwroot\resource\**" />
+    <None Remove="wwwroot\filesa\**" />
+    <None Remove="wwwroot\reesource\**" />
+    <None Remove="wwwroot\resource\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -22,6 +38,11 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Core\ETicaretApplication\ETicaretApplication.csproj" />
     <ProjectReference Include="..\..\Infrastructure\ETicaretApiPersistence\ETicaretApiPersistence.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\ETicaretInfrastructure\ETicaretInfrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 </Project>

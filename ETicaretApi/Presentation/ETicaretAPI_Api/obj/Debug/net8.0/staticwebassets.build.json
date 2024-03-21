@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "ty4n4R0bS1aBLNg5YQXS3P53HV+hb9es2j1FarggLNs=",
+  "Hash": "HfXpjMmyFLddg1nATBgDOheW2Rk8CwsF8/LmMohm7Uc=",
   "Source": "ETicaretAPI_Api",
   "BasePath": "_content/ETicaretAPI_Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "ETicaretAPI_Api\\wwwroot",
+      "Source": "ETicaretAPI_Api",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Presentation\\ETicaretAPI_Api\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI_Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Presentation\\ETicaretAPI_Api\\wwwroot\\photo-images\\foto.png",
+      "SourceId": "ETicaretAPI_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\E-Ticaret\\ETicaretApi\\Presentation\\ETicaretAPI_Api\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI_Api",
+      "RelativePath": "photo-images/foto.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photo-images\\foto.png"
+    }
+  ]
 }

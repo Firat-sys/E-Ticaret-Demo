@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin",
+    "\\src\\app\\admin\\layout",
+    "\\src\\app\\admin\\layout\\components",
+    "\\src\\app\\admin\\layout\\components\\sidebar",
+    "\\src\\app\\dialogs",
+    "\\src\\app\\dialogs\\select-product-image-dialog",
+    "\\src\\app\\iu",
+    "\\src\\app\\iu\\components",
+    "\\src\\app\\iu\\components\\login"
+  ],
+  "PreviewInSolutionExplorer": false
+}
